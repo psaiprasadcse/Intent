@@ -1,0 +1,214 @@
+Prompt,Intent
+Is the report.pdf file present in the current directory?,check
+Can you verify if the data.csv file exists?,check
+Does the log.txt file still exist in the folder?,check
+Check if the 'summary.docx' file is available in the documents directory.,check
+Can you tell me if the config.json file is in the config directory?,check
+Is the backup.tar file already created in the backup folder?,check
+Could you confirm the existence of the settings.ini file in the root directory?,check
+Do we have the error.log file in the logs directory?,check
+Please check if the README.md file is available in the project folder.,check
+Is there an 'index.html' file in the website directory?,check
+Is the 'archives' directory available?,check
+Can you check if the 'photos' folder exists?,check
+Does the 'temp_files' directory still exist?,check
+Is the 'backup' directory present in the root folder?,check
+Verify the existence of the 'data' directory in the current location.,check
+Can you tell me if the 'logs' directory is created?,check
+Is there a 'projects' folder in the current directory?,check
+Check if the 'configurations' directory is available in the system.,check
+Does the 'downloads' directory still exist on the disk?,check
+Can you confirm whether the 'scripts' directory is present?,check
+How do I check if a file named 'schedule.txt' exists?,check
+"Verify if the file ""config.yaml"" exists in this directory.",check
+"Can you check if ""data.csv"" is present in the ""datasets"" folder?",check
+"Is there a ""log.txt"" file in this folder?",check
+"Please check if ""summary.docx"" is available in the ""reports"" directory.",check
+"I need to know if ""archive.zip"" is still in the folder.",check
+"Confirm whether ""readme.md"" exists in the current directory.",check
+"Sam wants to ensure that the ""final_draft.docx"" file is present before sending it to his professor. How can he check?",check
+"Anna is unsure if she saved the ""meeting_notes.txt"" file in her ""documents"" folder. What should she do to check?",check
+How to copy the file,copy
+How do I copy a file from one folder to another?,copy
+Is there a way to copy all images from one folder to another?,copy
+How do I copy multiple files at once?,copy
+Please copy all documents to the 'shared' directory.,copy
+Can you copy the entire contents of one directory to another?,copy
+Can you copy files based on their creation date?,copy
+"How can I duplicate the file named ""report.docx""?",copy
+"Please copy ""data.csv"" to the ""backup"" folder.",copy
+"Is it possible to make a copy of the ""project.zip"" file in the ""archives"" directory?",copy
+"I need to replicate ""summary.txt"" in another directory.",copy
+"Copy the file ""image.png"" to the desktop.",copy
+"Can you help me copy ""notes.txt"" to my USB drive?",copy
+"Sarah needs to back up her ""designs.pptx"" presentation before making changes. How should she proceed?",copy
+"John wants to create a copy of the ""sales_data.xlsx"" file in the ""monthly_reports"" folder.",copy
+How do I check how many files are in a subdirectory?,count
+How do I check the number of files in the 'downloads' folder?,count
+I need to know how many files are in the 'music' folder.,count
+"How many files are in the ""documents"" directory?",count
+Can you count the number of .txt files in this folder?,count
+"I need to know the total number of files in the ""images"" directory.",count
+"Count the number of files present in the ""backup"" folder.",count
+How many files are there in the current directory?,count
+"Please count the files in the ""reports"" folder.",count
+"Emma wants to find out how many PDF files are in her ""ebooks"" folder. How can she get this count?",count
+"Jake is organizing his ""projects"" directory and needs to know the total number of files in it. What should he do?",count
+Akash want create a directory,create_directory
+Please create a new directory for project files.,create_directory
+Can you help me create a new directory named 'Photos'?,create_directory
+How do I create a directory for my assignments?,create_directory
+I need to create a new folder called 'Archives'. Can you do that?,create_directory
+How do I create multiple directories at once?,create_directory
+How do I create a directory with a specific name?,create_directory
+How do I move a file to a directory that doesn't exist yet?,create_directory
+How do I create a nested directory structure?,create_directory
+"Create a new directory called ""projects"".",create_directory
+"How do I make a folder named ""backup"" in this location?",create_directory
+"Can you create a ""reports"" directory inside the ""documents"" folder?",create_directory
+"Please generate a directory named ""archives"" in the current path.",create_directory
+"I need to create a new folder called ""data"".",create_directory
+"How can I make a directory named ""scripts"" in this directory?",create_directory
+"Sarah is starting a new project and needs to create a ""designs"" folder to store her work. How should she proceed?",create_directory
+"John needs a dedicated ""resources"" directory within his ""projects"" folder. What steps should he take to create it?",create_directory
+what is the proces of creating the file,create_file
+"""How can I create a new text file in the current directory?""",create_file
+"""Can you guide me on how to create a CSV file with specific content?""",create_file
+"""What command would I use to create a blank file named report.txt?""",create_file
+"""How do I create a Python script file in this directory?""",create_file
+"""Is it possible to create a file with a specific extension, like .json?""",create_file
+"""Can I create a file with today's date in its name? If so, how?""",create_file
+"""How do I create multiple empty files at once in a directory?""",create_file
+"""What are the steps to create a new file and write some initial content into it?""",create_file
+"""How can I create a temporary file that gets deleted automatically after use?""",create_file
+"""Is there a way to create a hidden file in a directory?""",create_file
+i want make a new file,create_file
+"Create a new file called ""summary.txt"".",create_file
+"I need to make a file named ""draft.docx"".",create_file
+"Can you generate a new file titled ""notes.md""?",create_file
+"Please create an empty ""index.html"" file.",create_file
+"Make a new file called ""todo.txt"" in this directory.",create_file
+"How do I create a ""script.py"" file?",create_file
+"David wants to start a new project and needs to create a ""project_plan.txt"" file to document his ideas. What should he do?",create_file
+"Mary is required to make a ""feedback_form.txt"" file to collect feedback from her team.",create_file
+How can I check my IP address on this machine?,Ipaddr
+Please display the IP address of the current system.,Ipaddr
+What is the IP address of my computer?,Ipaddr
+Can you show the IP address for this device?,Ipaddr
+How do I find out the IP address assigned to this machine?,Ipaddr
+Retrieve the IP address of the system.,Ipaddr
+Tom is trying to connect his computer to a network and needs to know its IP address. What command should he use?,Ipaddr
+Lisa wants to set up a remote connection to her computer and needs the IP address to proceed. How can she retrieve it?,Ipaddr
+How do I find the IP address of a remote machine?,Ipaddr
+What is my current IP address?,Ipaddr
+How do I find out my IP address on this machine?,Ipaddr
+can you let me know what is my Ip address,Ipaddr
+Can you tell me what my IP address is?,Ipaddr
+How do I find out my IP address?,Ipaddr
+What is my current IP address?,Ipaddr
+Please provide the IP address of my system.,Ipaddr
+Could you check and show my IP address?,Ipaddr
+Where can I see my device's IP address?,Ipaddr
+How do I check the IP address of this machine?,Ipaddr
+Show me the IP address of my computer.,Ipaddr
+I need to know the IP address. Can you help?,Ipaddr
+What's the IP address assigned to my device?,Ipaddr
+how many files in my directory,list
+can you list files in the files,list
+Can you show me all files in the 'pictures' directory?,list
+Please list all the files in the 'backup' folder.,list
+Can you list all the files in the 'documents' directory?,list
+Can you show me the list of files in the 'projects' directory?,list
+Can you list all hidden files in the 'config' folder?,list
+"List all the files in the ""projects"" folder.",list
+"Can you display the files in the ""documents"" directory?",list
+Show me the files in this directory.,list
+"Please list the files present in the ""backup"" folder.",list
+"What are the files available in the ""downloads"" directory?",list
+I need a list of files in this folder.,list
+"Michael needs to review the contents of his ""assignments"" folder. What command should he use to list all the files?",list
+"Clara wants to see all the files in her ""photos"" directory. How can she do this?",list
+Can you move the document to the backup folder?,move
+Can you rename the 'draft.txt' to 'final_draft.txt'?,move
+Can you help me transfer a file named 'presentation.pptx' to the desktop?,move
+Can you rename 'tasklist.txt' to 'completed_tasks.txt'?,move
+"I have a file , it need to be transfered to another location",move
+Please transfer the 'budget.xlsx' file to the finance folder.,move
+How can I move a file without changing its name?,move
+Can you rename the 'notes.txt' file to 'lecture_notes.txt'?,move
+How do I move the 'summary.pdf' file to the archive directory?,move
+How do I move files based on their type?,move
+Please rename the file,move
+"I have one file named 'sai.txt' , I want to change its name",move
+Ravi needs to rename a folder. How can he do it?,move
+I want to rename 'report.docx' to 'final_report.docx'.,move
+Can you rename a file and move it to a different folder simultaneously?,move
+Can you rename a directory and list its contents afterward?,move
+How do I rename multiple files in a sequence?,move
+Can you move the file to the backup folder?,move
+How do I transfer this file to another directory?,move
+Please relocate the document to the archive.,move
+Move the 'report.txt' file to the documents folder.,move
+I need to move this image to a different folder.,move
+Can you help me shift the files to the new location?,move
+How do I move all files from the download folder to documents?,move
+Please transfer the data from the desktop to the USB drive.,move
+Move the presentation to the shared folder.,move
+Can you relocate these files to a secure directory?,move
+"How do I move ""video.mp4"" to the ""media"" folder?",move
+"Transfer the ""draft.docx"" file from the ""documents"" folder to ""final_versions"".",move
+"I need to relocate ""photo.jpg"" to another directory.",move
+"Can you move ""budget.xlsx"" to the finance folder?",move
+"Please move ""log.txt"" to the archive folder.",move
+"Shift ""data.json"" from ""temp"" to ""completed"" folder.",move
+"Emily needs to reorganize her ""research"" folder by moving ""final_paper.docx"" to the ""submissions"" folder. How should she do it?",move
+"Tom is rearranging files and needs to move ""invoice.pdf"" to the ""billing"" directory.",move
+"Rename ""document.txt"" to ""final_document.txt"".",move
+"Change the name of ""image.png"" to ""picture.png"".",move
+"How do I rename ""log.txt"" to ""system_log.txt""?",move
+"Please rename ""draft.docx"" to ""final_version.docx"".",move
+"Can you change the file name ""report.csv"" to ""final_report.csv""?",move
+"Rename the file ""backup.zip"" to ""archive.zip"".",move
+"Julia needs to update the name of ""project_v1.docx"" to ""project_final.docx"". What steps should she take?",move
+"Alex mistakenly saved a file as ""temp.docx"" and wants to rename it to ""notes.docx"". What command should he use?",move
+How do I delete a directory that contains files?,remove_directory
+Please delete the folder named 'old_projects'.,remove_directory
+How to delete te directory,remove_directory
+I need to delete the 'temp' directory. How can I do that?,remove_directory
+What command will delete a directory named 'backup'?,remove_directory
+Can you remove a directory only if it is empty?,remove_directory
+How do I delete all files in a directory except one?,remove_directory
+Can you delete the empty folder named 'temp'?,remove_directory
+How do I remove the 'old_projects' directory?,remove_directory
+Please erase the 'backup' folder from the system.,remove_directory
+I need to get rid of the 'test_data' directory. Can you help?,remove_directory
+How can I remove an unused directory from my workspace?,remove_directory
+"Delete the 'logs' directory, it's no longer needed.",remove_directory
+Can you help me remove the 'archive' folder from my computer?,remove_directory
+"Delete the ""old_projects"" directory from this location.",remove_directory
+"How can I remove the ""temp_files"" folder from my system?",remove_directory
+"Can you delete the ""backup"" directory inside the ""archives"" folder?",remove_directory
+"Please remove the ""drafts"" directory from the current path.",remove_directory
+"I want to delete the ""logs"" folder from this directory.",remove_directory
+"How do I permanently remove the ""old_data"" directory?",remove_directory
+"Laura needs to clean up her workspace by deleting the ""temp"" directory after she finishes her work. How can she do this?",remove_directory
+"Mark accidentally created an unnecessary ""test_folder"" and now wants to remove it. What should he do?",remove_directory
+Can you delete all files with a '.tmp' extension?,remove_file
+Can you trash the file .,remove_file
+How do I delete the file named 'old_data.csv'?,remove_file
+Can you help me remove the 'log.txt' file?,remove_file
+How do I delete a file securely?,remove_file
+How do I permanently delete the 'temp_files' directory?,remove_file
+Please remove the 'unwanted_files' directory from the server.,remove_file
+I want to delete the 'example_folder'. How do I do that?,remove_file
+can you put the files in trash or bin or recycle bin,remove_file
+just delete a single file,remove_file
+smitha want to permanently delete the files from the directory,remove_file
+"Delete the file ""old_report.docx"".",remove_file
+"Can you remove ""temp_data.csv"" from this folder?",remove_file
+"How do I delete the ""unnecessary.txt"" file?",remove_file
+"Please get rid of the file ""junk.log"".",remove_file
+"Remove the ""test.html"" file from the directory.",remove_file
+"I want to delete ""draft.pdf"".",remove_file
+"Lisa accidentally saved an empty ""error_log.txt"" file and now needs to delete it. How can she remove it?",remove_file
+"Mark wants to clean up his workspace by removing the ""unused_file.zip"". What should he do?",remove_file
